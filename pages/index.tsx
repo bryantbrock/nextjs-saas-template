@@ -18,6 +18,18 @@ export default function Home() {
         <Box color="red.400" fontWeight="bold">
           Chakra UI is installed!
         </Box>
+        <Box color="red.400" fontWeight="bold">
+          Chakra UI is installed!
+        </Box>
+        <Box color="red.400" fontWeight="bold">
+          Chakra UI is installed!
+        </Box>
+        <Box color="red.400" fontWeight="bold">
+          Chakra UI is installed!
+        </Box>
+        <Box color="red.400" fontWeight="bold">
+          Chakra UI is installed!
+        </Box>
 
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
